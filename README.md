@@ -2,7 +2,7 @@
 
 # Decode Morse Code
 
-> Decode morse code is a project with ruby programs to decode morse code messages.
+> Decode morse code is a project with ruby program to decode morse code messages.
 
 ## Built With
 
@@ -51,6 +51,12 @@ run the program functions
 - GitHub: [@iptisam](https://github.com/Iptysam)
 - Twitter: [@twitter](https://twitter.com/IptisamMukadam)
 - LinkedIn: [@linkedin](https://www.linkedin.com/in/iptisam-mukadam)
+
+👤 **Abdimulhin Adan**
+
+- GitHub: [@AbdimulhinYussuf3675](https://github.com/AbdimulhinYussuf3675)
+- Twitter: [@abdimulhin](https://twitter.com/abdimulhin)
+- LinkedIn: [Abdimulhin Adan](https://github.com/AbdimulhinYussuf3675)
 
 
 ## 🤝 Contributing
